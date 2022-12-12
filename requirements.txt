@@ -1,0 +1,6 @@
+aiogram==2.23.1
+python-dotenv==0.21.0
+emoji==2.2.0
+peewee==3.15.4
+requests==2.28.1
+aioschedule==0.5.2
